@@ -260,6 +260,8 @@ en muchos tipos de aplicaciones.
 
 ># 4. VIDEO
 
+https://youtu.be/PX7b7U0Jjww
+
 ># 5. CONCLUSIONES
 
 * En un circuito RLC en paralelo, la reactancia más pequeña determina la reactancia neta del circuito 
